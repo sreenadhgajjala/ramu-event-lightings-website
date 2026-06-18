@@ -65,3 +65,10 @@ Add your Framer website link here.
 Sreenadh Gajjala
 B.Tech CSE (AI & ML)
 NBKR Institute of Science and Technology
+
+
+<img width="1912" height="988" alt="Screenshot 2026-06-18 184442" src="https://github.com/user-attachments/assets/a4ed804a-3aea-4f69-83a3-82e1d67dda23" />
+<img width="1835" height="1023" alt="Screenshot 2026-06-18 184525" src="https://github.com/user-attachments/assets/53e0394e-9407-4912-a5be-086ddb718851" />
+<img width="1917" height="1022" alt="Screenshot 2026-06-18 184546" src="https://github.com/user-attachments/assets/6d82e579-cf16-4fe6-b282-f5598127a20f" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-18 at 6 46 30 PM" src="https://github.com/user-attachments/assets/5fdaaff3-58c6-4558-8335-761d40a0838e" />
+
