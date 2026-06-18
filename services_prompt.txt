@@ -1,0 +1,19 @@
+Create service page content for:
+
+Business Name: Ramu Event Lightings & Power Solutions
+
+Include:
+- Service Name
+- Description
+- Benefits
+- Why Customers Choose Us
+
+Services:
+Wedding Lighting
+Function Lighting
+Festival Lighting
+Wedding Mandap Setup
+Stage Decoration
+House Wiring
+Electrical Repairs
+Home Electrical Maintenance
